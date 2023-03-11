@@ -9,7 +9,7 @@
 <p align="center">List your issues and profile user</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ruan4f/github-blog?color=%232677a8">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ruan4f/ignite-github-blog?color=%232677a8">
 
   <a href="https://www.linkedin.com/in/ruan-ferreira-s/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-ruan-2677a8">
